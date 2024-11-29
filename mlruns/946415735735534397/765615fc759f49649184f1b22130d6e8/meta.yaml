@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/946415735735534397/765615fc759f49649184f1b22130d6e8/artifacts
+end_time: 1732906641533
+entry_point_name: ''
+experiment_id: '946415735735534397'
+lifecycle_stage: active
+run_id: 765615fc759f49649184f1b22130d6e8
+run_name: bouncy-turtle-438
+run_uuid: 765615fc759f49649184f1b22130d6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732906637326
+status: 3
+tags: []
+user_id: sadhu

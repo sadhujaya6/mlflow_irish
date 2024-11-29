@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/946415735735534397/7af59823b5654e479fef09065ed9e3fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '946415735735534397'
+lifecycle_stage: active
+run_id: 7af59823b5654e479fef09065ed9e3fa
+run_name: polite-ant-100
+run_uuid: 7af59823b5654e479fef09065ed9e3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732906945912
+status: 1
+tags: []
+user_id: sadhu
